@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# My favorite things
+
+* coffe machine
+* laptop
+* car
+* learning
